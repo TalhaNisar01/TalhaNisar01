@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Talha Nisar</h1>
 <h3 align="center">A Passionate Software Engineer from Pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="[[![image](https://github.com/TalhaNisar01/TalhaNisar01/assets/129663839/1e645af0-9ce0-4ff5-ba42-007da432af53)](https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3iQiOKR0CkxVFNLaOTefJs&ust=1715489930034000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDV9azohIYDFQAAAAAdAAAAABBs)">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talha-nisar&label=Profile%20views&color=0e75b6&style=flat" alt="talha-nisar" /> </p>
@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talhanisar01&show_icons=true&locale=en&layout=compact" alt="talhanisar01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talha-nisar&show_icons=true&locale=en" alt="talha-nisar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talhanisar01&show_icons=true&locale=en" alt="talhanisar01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talha-nisar&" alt="talha-nisar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talhanisar01&" alt="talhanisar01" /></p>
